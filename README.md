@@ -1,4 +1,4 @@
-## Perform feature engineering using FFT and generate custom features of images to train a image classifier
+## Perform feature engineering using FFT and generate custom features of images to train an image classifier
 <hr>
 
 In this project, a collection of custom fourier space features are generated in order to train and test a neural network classifier instead of using image pixel values for the training. The image pre-processing steps contain several FFT-based feature engineering tasks that generate the following custom features:
