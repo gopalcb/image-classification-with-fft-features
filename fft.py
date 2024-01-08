@@ -128,7 +128,7 @@ def grip_first_n_items(mag_np_dict, limit):
         print(f'INFO: gripping date of {label} - limit: {limit}')
         for i, data in enumerate(data_list):
             items = data[0:limit]
-            print(f'INFO: total value count: {len(items)}')
+            # print(f'INFO: total value count: {len(items)}')
             gripped_data_dict[label].append(items)
 
     print('INFO: processing complete')

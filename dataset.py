@@ -13,7 +13,7 @@ def load_images(data_root='data'):
     load image pixle values into numpy array
     the class labels are extracted from image name
     """
-    image_files = os.listdir(data_root)
+    image_files = [x for x in os.listdir(data_root) if 'jpg' in x]
     image_np_dict = {
         'deer': [],
         'horse': [],
