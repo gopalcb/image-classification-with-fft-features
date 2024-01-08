@@ -443,11 +443,7 @@ extract_results_from_prediction()
     (1, 4, 4096)
     INFO: generating prediction matrix
     1/1 [==============================] - 0s 26ms/step
-
-
-
-
-
+    
     'squirrel'
 
 
