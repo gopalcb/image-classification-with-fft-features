@@ -56,7 +56,7 @@ print('INFO: class labels: tiger, deer, horse squirrel')
 
 
     
-![png](imgs/imgs/output_6_1.png)
+![png](imgs/output_6_1.png)
     
 
 
@@ -124,7 +124,7 @@ axarr[3,1].imshow(np.log(mag_np_dict['squirrel'][1]), cmap='gray')
 
 
     
-![png](imgs/imgs/output_10_1.png)
+![png](imgs/output_10_1.png)
     
 
 
